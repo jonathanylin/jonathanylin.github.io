@@ -11,20 +11,20 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #3498DB;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 2.5em;
+    font-size: 2em;
     font-family: "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
 }
 p {
     font-size: 1em;
     font-family: "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
     line-height: 1em;
-    color: #333;
+    color: #900808;
 }
 footer {
     border-top: 1px solid #d5d5d5;
