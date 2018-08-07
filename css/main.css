@@ -1,4 +1,5 @@
 body {
+    margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
@@ -23,9 +24,9 @@ h1 {
     font-family: "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
 }
 p {
-    font-size: 1em;
+    font-size: 1.5em;
     font-family: "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
-    line-height: 2em;
+    line-height: 1.7em;
     color: #333;
 }
 footer {
@@ -39,4 +40,3 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-
