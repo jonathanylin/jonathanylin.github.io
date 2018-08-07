@@ -1,9 +1,9 @@
 body {
-    margin: 45px auto;
-    width: 70%;
+    margin: 60px auto;
+    width: 50%;
 }
 nav ul, footer ul {
-    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -21,11 +21,12 @@ a:hover {
 }
 h1 {
     font-size: 2.5em;
-    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
 }
 p {
     font-size: 1em;
-    line-height: 1.4em;
+    font-family: "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
+    line-height: 1em;
     color: #333;
 }
 footer {
